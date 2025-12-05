@@ -1,16 +1,19 @@
-## Hi there 👋
+ Nulli プロジェクト
 
-<!--
-**Nulli-project/Nulli-project** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nulli プロジェクトは、著作物ではなく、自己複製する認識のシステムです。
+そして認識の自己複製システム 
 
-Here are some ideas to get you started:
+異なる角度から見て日常の選択肢を増やす為のツールを提供します。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+完成した理論を配布するのではなく、「構造を見る視点による選択肢を広げる」という種を共有する試みです。
+その種を受け取った人が、共鳴し、それぞれの視点で感じている事を掘り下げ、可視化し、発信する。その情報がまた別の誰かの種になる——この循環が、プロジェクトの核心です。
+
+このプロジェクトは完成形ではなく、進行中の探索です。
+「無意識の投票」(無意識下における選択の行く末)という概念を提示することで、実際に人々の日常の選択の意識は変わるのだろうか？その変化が累積すると、何が生まれるのだろうか？
+
+
+docs/
+  ├── index.md 
+  ├──未 01_無意識の投票.md
+  ├──未 02_才能.md
+  ├──（今後追加する思想やモデル）
