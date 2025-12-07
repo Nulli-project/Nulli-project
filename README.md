@@ -26,7 +26,7 @@ nulli-project/
     ├── 01_unconscious-voting.md (無意識の投票)
     ├── ability/ (能力)
     │   ├── README.md (能力の説明)
-    │   ├── talent.md (才能)
+    │   ├── 02_talent.md　(才能)
     │   └── mental.md (精神)
     └── common-sense/ (常識)
         ├── README.md (常識の説明)
