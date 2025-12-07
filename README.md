@@ -21,14 +21,9 @@ Nulli プロジェクトは、著作物ではなく、自己複製する認識�
 
 nulli-project/
 ├── README.md
-└── docs/00_overview.md (概要)
-    ├── 00_overview.md (概要)
+├── LICENSE
+└── docs/
+    ├── 00_overview.md (プロジェクト概要)
     ├── 01_unconscious-voting.md (無意識の投票)
-    ├── ability/ (能力)
-    │   ├── README.md (能力の説明)
-    │   ├── 02_talent.md　(才能)
-    │   └── mental.md (精神)
-    └── common-sense/ (常識)
-        ├── README.md (常識の説明)
-        ├── long-term-conservative.md (長期保守的)
-        └── short-term-conservative.md (短期的保守的)
+    ├── 02_talent.md (才能)
+    └── 03_fabric-theory.md (布理論)
