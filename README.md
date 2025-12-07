@@ -24,6 +24,6 @@ nulli-project/
 ├── LICENSE
 └── docs/
     ├──[プロジェクト概要](docs/00_overview.md)
-    ├── 01_unconscious-voting.md (無意識の投票)
+    ├──[無意識の投票](docs/01_unconscious-voting.md)
     ├── 02_talent.md (才能)
     └── 03_fabric-theory.md (布理論)
