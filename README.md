@@ -20,7 +20,7 @@ Nulli プロジェクトは、著作物ではなく、自己複製する認識�
 # Nulli-Project
 
 [プロジェクト概要](docs00/00_overview.md)
-- [無意識の投票](docs00/01_unconscious-voting.md)
+- [無意識の投票](docs00/01-1_unconscious-voting.md)
    - [才能](docs00/02_talent.md)
    -
    - 
