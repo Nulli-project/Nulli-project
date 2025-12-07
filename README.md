@@ -22,10 +22,10 @@ Nulli プロジェクトは、著作物ではなく、自己複製する認識�
 <pre>nulli-project/</pre>
 <pre>├── </pre>README.md
 <pre>├── </pre>LICENSE
-<pre>└── </pre>docs/</pre>
+    └── </pre>docs/
     ├──[プロジェクト概要](docs/00_overview.md)
     ├──[無意識の投票](path/to/docs/01_unconscious-voting.md)
-<pre>    ├──</pre> 02_talent.md (才能)
-<pre>    └──</pre> 03_fabric-theory.md (布理論)
+    ├──</pre> 02_talent.md (才能)
+    └──</pre> 03_fabric-theory.md (布理論)
 
  
