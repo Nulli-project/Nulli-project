@@ -163,5 +163,5 @@
 
 **無意識の投票：日常的選択の構造分析（第二部）へ**
 
-  ［無意識投票二部］(01-2_unconscious-voting.md）
+  ［無意識の投票二部］(docs00/01-2_unconscious-voting.md）
 
