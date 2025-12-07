@@ -21,7 +21,7 @@ Nulli プロジェクトは、著作物ではなく、自己複製する認識�
 
 nulli-project/
 ├── README.md
-└── docs/
+└── docs/00_overview.md (概要)
     ├── 00_overview.md (概要)
     ├── 01_unconscious-voting.md (無意識の投票)
     ├── ability/ (能力)
