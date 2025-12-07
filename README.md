@@ -21,13 +21,13 @@ Nulli プロジェクトは、著作物ではなく、自己複製する認識�
 ## プロジェクト構成
 $ gtree output << EOS
 nulli-project/
-<pre>├── README.md</pre>
+├── README.md
 ├── LICENSE
 └── docs/
-    ├──[プロジェクト概要](docs/00_overview.md)
-    ├──[無意識の投票](docs/01_unconscious-voting.md)
-    ├── 02_talent.md (才能)
-    └── 03_fabric-theory.md (布理論)
+				├──[プロジェクト概要](docs/00_overview.md)
+				├──[無意識の投票](docs/01_unconscious-voting.md)
+				├── 02_talent.md (才能)
+				└── 03_fabric-theory.md (布理論)
 
     EOS
 
