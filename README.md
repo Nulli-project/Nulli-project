@@ -22,7 +22,7 @@ Nulli プロジェクトは、著作物ではなく、自己複製する認識�
 nulli-project/
 ├── README.md
 ├── LICENSE
-    └── </pre>docs/
+└── </pre>docs/
     ├──[プロジェクト概要](docs/00_overview.md)
     ├──[無意識の投票](path/to/docs/01_unconscious-voting.md)
     ├── 02_talent.md (才能)
