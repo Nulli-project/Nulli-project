@@ -18,7 +18,7 @@ Nulli プロジェクトは、著作物ではなく、自己複製する認識�
 原則：非強制・非押付け、バランス原理（メリット⇄デメリットを常に対で提示）、
 
 
-<pre>
+## プロジェクト構成
 nulli-project/
 ├── README.md
 ├── LICENSE
@@ -27,5 +27,5 @@ nulli-project/
     ├──[無意識の投票](path/to/docs/01_unconscious-voting.md)
     ├── 02_talent.md (才能)
     └── 03_fabric-theory.md (布理論)
-</pre>
+
  
