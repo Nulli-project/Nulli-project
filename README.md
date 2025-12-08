@@ -20,7 +20,7 @@ Nulli プロジェクトは、著作物ではなく、自己複製する認識�
 # Nulli-Project
 
 [プロジェクト概要](docs00/00_overview.md)
-- [無意識の選択](docs00/01-1_unconscious-choice.md)
+- [無意識の選択](docs00/01-1_unconscious-choice.md)─[裏付け調査レポート](docs00/01-9_unconscious-choice.md)
    - [才能](docs00/02_talent.md)
    -
    - 
