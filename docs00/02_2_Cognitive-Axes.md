@@ -297,6 +297,8 @@
   - [未分化型ガイド](02_6_Cognitive-Axes.md)
   - [外的要因と発達パターン](02_7_Cognitive-Axes.md)
 
+[プロジェクト概要](docs00/00_overview.md)
+
 **License:** MIT  
 **Author:** Nulli
 
