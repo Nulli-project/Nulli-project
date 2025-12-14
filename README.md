@@ -25,7 +25,7 @@
 
 [プロジェクト概要](docs00/00_overview.md)
 - [無意識の選択](docs00/01-1_unconscious-choice.md)─[裏付け調査レポート](docs00/01-9_unconscious-choice.md)
-   - [認知基軸part 1](docs00/02_1_Cognitive-Axes.md)
+   - [認知基軸と能力発達の理論](docs00/02_1_Cognitive-Axes.md)-[思考型](docs00/02_2_Cognitive-Axes.md)
    - 
    -
 
