@@ -25,8 +25,7 @@
 
 [プロジェクト概要](docs00/00_overview.md)
 - [無意識の選択](docs00/01-1_unconscious-choice.md)─[裏付け調査レポート](docs00/01-9_unconscious-choice.md)
-   - [認知基軸と能力発達の理論](docs00/02_1_Cognitive-Axes.)━[思考型](docs00/02_2_Cognitive-Axes.md)
+   - [認知基軸と能力発達の理論 全体マップ](docs00/02_1_Cognitive-Axes.)━[思考型](docs00/02_2_Cognitive-Axes.md)━[感覚](docs00/02_3_Cognitive-Axes.)━[構造把握型](docs00/02_4_Cognitive-Axes.md)━[直観型](docs00/02_5_Cognitive-Axes.md)━[未分化型ガイド](docs00/02_6_Cognitive-Axes.md)━[外的要因と発達パターン](docs00/02_7_Cognitive-Axes.md)
    - 
-   -
 
 License MIT
