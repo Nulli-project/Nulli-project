@@ -302,8 +302,8 @@
 
 ---
 
-**Document Version:** 2.0  
-**License:**
+**License:** MIT 
+
 **Author:** Nulli
 
   - [認知基軸と能力発達の理論 part1:認知基軸とは何か - 才能の正体を見直す](02_1_Cognitive-Axes.md)
