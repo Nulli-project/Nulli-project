@@ -176,6 +176,8 @@
   - [無意識の選択第二部](01-2_unconscious-choice.md)
   - [裏付け調査レポート](01-9_unconscious-choice.md)
 
+---
+
 **関連ファイル**：
   - [認知基軸と能力発達の理論　全体マップ（Overview）](02_1_Cognitive-Axes.md)
   - [思考型のすべて](02_2_Cognitive-Axes.md)
