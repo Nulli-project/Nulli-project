@@ -302,9 +302,14 @@
 
 ---
 
-**License:** MIT 
+  - [全体マップ（Overview）](02_1_Cognitive-Axes.md)
+  - [思考型のすべて](02_2_Cognitive-Axes.md)
+  - [感覚型のすべて](02_3_Cognitive-Axes.md)
+  - [構造把握型のすべて](02_4_Cognitive-Axes.md)
+  - [直観型のすべて](02_5_Cognitive-Axes.md)
+  - [未分化型ガイド](02_6_Cognitive-Axes.md)
+  - [外的要因と発達パターン](02_7_Cognitive-Axes.md)
 
+
+**License:** MIT  
 **Author:** Nulli
-
-  - [認知基軸と能力発達の理論 part1:認知基軸とは何か - 才能の正体を見直す](02_1_Cognitive-Axes.md)
-  - [認知基軸と能力発達の理論 part2:4つの認知基軸 - あなたはどのタイプか](02_2_Cognitive-Axes.md)
