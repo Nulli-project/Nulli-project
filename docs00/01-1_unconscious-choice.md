@@ -170,8 +170,22 @@
 環境への選択は、時間差を持って自分に返ってくる。自分の部屋を整えることは自分への選択、公共空間を整えることは未来の自分と他者への選択。
 
 ---
-
 **無意識の選択：日常的選択の構造分析（第二部）へ**
 
   -[無意識の選択第二部](01-2_unconscious-choice.md)
   -[裏付け調査レポート](01-9_unconscious-choice.md)
+
+**関連ファイル**：
+  - [認知基軸と能力発達の理論　全体マップ（Overview）](02_1_Cognitive-Axes.md)
+  - [思考型のすべて](02_2_Cognitive-Axes.md)
+  - [感覚型のすべて](02_3_Cognitive-Axes.md)
+  - [構造把握型のすべて](02_4_Cognitive-Axes.md)
+  - [直観型のすべて](02_5_Cognitive-Axes.md)
+  - [未分化型ガイド](02_6_Cognitive-Axes.md)
+  - [外的要因と発達パターン](02_7_Cognitive-Axes.md)
+
+
+[プロジェクト概要](docs00/00_overview.md)
+
+**License:** MIT  
+**Author:** Nulli
