@@ -174,3 +174,4 @@
 **無意識の選択：日常的選択の構造分析（第二部）へ**
 
   -[無意識の選択第二部](01-2_unconscious-choice.md)
+  -[裏付け調査レポート](01-9_unconscious-choice.md)
