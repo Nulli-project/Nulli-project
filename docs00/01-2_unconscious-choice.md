@@ -197,6 +197,6 @@
 毎日の選択が、今生きているこの自分を作っている。
 そして、その自分の選択が、また新たな自分を作る。この循環の中で、私たちは生きている。
 
-  -[無意識の選択](01-1_unconscious-choice.md)
-  -[裏付け調査レポート](01-9_unconscious-choice.md)
+  - [無意識の選択](01-1_unconscious-choice.md)
+  - [裏付け調査レポート](01-9_unconscious-choice.md)
 
