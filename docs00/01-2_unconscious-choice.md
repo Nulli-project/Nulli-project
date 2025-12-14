@@ -198,10 +198,9 @@
 そして、その自分の選択が、また新たな自分を作る。この循環の中で、私たちは生きている。
 
 **関連ファイル**：
-
-  - [無意識の選択](01-1_unconscious-choice.md)
+  - [無意識の選択第一部](01-1_unconscious-choice.md)
   - [裏付け調査レポート](01-9_unconscious-choice.md)
-    
+---
   - [認知基軸と能力発達の理論　全体マップ（Overview）](02_1_Cognitive-Axes.md)
   - [思考型のすべて](02_2_Cognitive-Axes.md)
   - [感覚型のすべて](02_3_Cognitive-Axes.md)
