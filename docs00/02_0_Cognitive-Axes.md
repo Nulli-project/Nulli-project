@@ -236,23 +236,23 @@
 
 該当するタイプのファイルを読む：
 
-- [思考型のすべて](02_2_Cognitive-Axes.md)
-- [感覚型のすべて](02_3_Cognitive-Axes.md)
-- [構造型のすべて](02_4_Cognitive-Axes.md)
-- [直観型のすべて](02_5_Cognitive-Axes.md)
+- [思考型のすべて](02_1_Cognitive-Axes.md)
+- [感覚型のすべて](02_2_Cognitive-Axes.md)
+- [構造型のすべて](02_3_Cognitive-Axes.md)
+- [直観型のすべて](02_4_Cognitive-Axes.md)
 
 ### タイプがわからない
 
 以下の順で読む：
-1. まず[未分化型ガイド](02_6_Cognitive-Axes.md)を読む
+1. まず[未分化型ガイド](02_5_Cognitive-Axes.md)を読む
 2. 外的要因を整える
 3. 小さな実験で偏りを探る
 
 ### 理論全体を理解したい
 
 以下の順で読む：
-1. [外的要因と発達パターン](02_7_Cognitive-Axes.md)
-2. [選択の意識化](01-1_unconscious-choice.md)
+1. [外的要因と発達パターン](02_6_Cognitive-Axes.md)
+2. [無意識の選択](01-1_unconscious-choice.md)
 3. 各タイプのファイル
 
 ---
