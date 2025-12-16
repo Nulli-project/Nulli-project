@@ -168,6 +168,6 @@ Nulliは一人では作れない。
 ---
 
   - [無意識の選択](01-1_unconscious-choice.md)─[第二部](01-2_unconscious-choice.md)─[裏付け調査レポート](01-9_unconscious-choice.md)
-  - [認知基軸と能力発達の理論 全体マップ](02_1_Cognitive-Axes.md)─ [思考型](02_2_Cognitive-Axes.md)─[感覚](02_3_Cognitive-Axes.md)─[構造把握型](02_4_Cognitive-Axes.md)─ [直観型](02_5_Cognitive-Axes.md)─[未分化型ガイド](02_6_Cognitive-Axes.md)─[外的要因と発達パターン](02_7_Cognitive-Axes.md)
+  - [認知基軸と能力発達の理論 全体マップ](02_0_Cognitive-Axes.md)─ [思考型](02_1_Cognitive-Axes.md)─[感覚](02_2_Cognitive-Axes.md)─[構造把握型](02_3_Cognitive-Axes.md)─ [直観型](02_4_Cognitive-Axes.md)─[未分化型ガイド](02_5_Cognitive-Axes.md)─[外的要因と発達パターン](02_6_Cognitive-Axes.md)
    - 
 
