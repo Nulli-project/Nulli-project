@@ -30,4 +30,7 @@
    - 
 - [限界の創造性：制約が生み出す人間の可能性](docs00/02_7-1_Cognitive-Axes.md)
 
+##背景
+   -[宇宙の理](docs01/00_.md)
+
 License MIT
