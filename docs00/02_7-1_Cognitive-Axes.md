@@ -135,7 +135,6 @@
 **関連ファイル**：
   - [無意識の選択](01-1_unconscious-choice.md)
   - [認知基軸と能力発展（Overview）](02_0_Cognitive-Axes.md)
-  - [限界の創造性：制約が生み出す人間の可能性](02_7-1_Cognitive-Axes.md)
     
 
 [プロジェクト概要](docs00/00_overview.md)
