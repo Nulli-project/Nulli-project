@@ -28,6 +28,6 @@
    - [認知基軸と能力発達の理論 全体マップ](docs00/02_1_Cognitive-Axes.md)─ [思考型](docs00/02_2_Cognitive-Axes.md)─[感覚](docs00/02_3_Cognitive-Axes.md)─[構造把握型](docs00/02_4_Cognitive-Axes.md)─ [直観型](docs00/02_5_Cognitive-Axes.md)─[未分化型ガイド](docs00/02_6_Cognitive-Axes.md)─[外的要因と発達パターン](docs00/02_7_Cognitive-Axes.md)
    - 
    - 
--[限界の創造性：制約が生み出す人間の可能性](docs00/02_7_Cognitive-Axes.md)
+- [限界の創造性：制約が生み出す人間の可能性](docs00/02_7_Cognitive-Axes.md)
 
 License MIT
