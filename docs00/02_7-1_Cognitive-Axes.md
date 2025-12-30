@@ -137,7 +137,7 @@
   - [認知基軸と能力発展（Overview）](02_0_Cognitive-Axes.md)
     
 
-[プロジェクト概要](docs00/00_overview.md)
+[プロジェクト概要](00_overview.md)
 
 **License:** MIT  
 **Author:** Nulli
