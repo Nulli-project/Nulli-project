@@ -302,7 +302,8 @@
   - [直観型のすべて](02_4_Cognitive-Axes.md)
   - [未分化型ガイド](02_5_Cognitive-Axes.md)
   - [外的要因と発達パターン](02_6_Cognitive-Axes.md)
-
+  - [人はなぜ動けないのか？──行動の内的要因マップ](03_internal-friction-model.md)
+  - 
 [プロジェクト概要](00_overview.md) 
 
 **License:** MIT  
