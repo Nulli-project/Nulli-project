@@ -437,3 +437,18 @@
 *動けないとき、まず確認すべきは「どの層が詰まっているか」。*
 *そして、詰まっている層に合った介入を選ぶこと。*
 *それだけで、空回りはかなり減る。*
+
+
+**関連ファイル**：
+  - [全体マップ（Overview）](02_0_Cognitive-Axes.md)
+  - [思考型のすべて](02_1_Cognitive-Axes.md)
+  - [感覚型のすべて](02_2_Cognitive-Axes.md)
+  - [構造把握型のすべて](02_3_Cognitive-Axes.md)
+  - [直観型のすべて](02_4_Cognitive-Axes.md)
+  - [未分化型ガイド](02_5_Cognitive-Axes.md)
+  - [外的要因と発達パターン](02_6_Cognitive-Axes.md)
+  - [限界の創造性：制約が生み出す人間の可能性](02_7-1_Cognitive-Axes.md)
+    
+
+[プロジェクト概要](00_overview.md)
+
