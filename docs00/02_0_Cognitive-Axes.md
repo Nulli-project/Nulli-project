@@ -312,7 +312,7 @@
   - [限界の創造性：制約が生み出す人間の可能性](02_7-1_Cognitive-Axes.md)
     
 
-[プロジェクト概要](docs00/00_overview.md)
+[プロジェクト概要](00_overview.md)
 
 **License:** MIT  
 **Author:** Nulli
