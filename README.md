@@ -33,6 +33,6 @@
 **背景**
 
    - [宇宙の理](docs01/00_foundation.md)
-   - [宇宙の理](docs01/00_foundation.md)
+   - [信頼関係論——非対称構造における成立条件](docs01/01_Trust_relationship.md)
 
 License MIT
