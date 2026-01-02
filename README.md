@@ -33,5 +33,6 @@
 **背景**
 
    - [宇宙の理](docs01/00_foundation.md)
+   - [宇宙の理](docs01/00_foundation.md)
 
 License MIT
